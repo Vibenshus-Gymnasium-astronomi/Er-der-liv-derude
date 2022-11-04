@@ -82,7 +82,8 @@ eller Fermi?
 <iframe width="600" height="350" src="https://www.youtube.com/embed/8Rg9v3J0IiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 Direkte link: [[https://youtu.be/8Rg9v3J0IiU]]
-
+** Som en snebold
+[[./img/Snowball.gif]]
 ** Populær forklaring
 
 #+reveal_html: <div class="column" style="float:left; width: 50%">
@@ -391,6 +392,9 @@ Jupiter:
 - *Se mere i tema 8.1 s. 139 i DLU.*
 #+reveal_html: </div>
 
+*** Animation
+[[./img/Radialhastighed_animation.gif]]
+
 ** Mikrolinsemetoden
 
 #+reveal_html: <div class="column" style="float:left; width: 50%">
@@ -408,6 +412,12 @@ Jupiter:
 [[file:img/2020-04-29_19-17-42_screenshot.png]]
 #+reveal_html: </div>
 
+*** Gravitationslinse uden exoplanet
+[[./img/Gravitational_lens.gif]]
+
+*** Gravitationslinse med exoplanet
+
+[[./img/Gravitational_lens_with_exoplanet.jpg]]
 
 ** SONG-teleskopet
 
