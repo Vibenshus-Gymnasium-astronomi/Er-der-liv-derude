@@ -217,6 +217,11 @@ Direkte link: [[https://youtu.be/Z8CzVUeCTjc]]
 - Ligeledes er der fundet 3 af de 5 nukleotider (Bogstaverne i RNA og DNA) som beskriver arvemassen for livet på Jorden.
 #+reveal_html: </div>
 
+** LHB - En kort video
+
+#+begin_export html
+<iframe width="800" height="600" src="https://www.youtube.com/embed/JVboHupB8l0" title="Origin of Water - The Late Heavy Bombardment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
 ** Drake eller Fermi?
 - Livets byggesten (aminosyrer og nukleotider) og mediet (vand), det skal udvikle sig i, "regner" åbenbart ned over planeterne.
 - Vil det også være gældende for andre planetsystemer?
