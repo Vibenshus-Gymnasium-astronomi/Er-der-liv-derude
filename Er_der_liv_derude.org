@@ -139,7 +139,7 @@ Direkte link: [[https://youtu.be/Z8CzVUeCTjc]]
 ** Drake eller Fermi?
 - Giver dette anledning til at tro, at dette også er sket i andre planetsystemer?
 
-* Men hvor kommer vandet på Jorden så fra?
+* Men hvor kom vandet på Jorden så fra?
 ** Det store bombardement (Late Heavy Bombardment)
 #+reveal_html: <div class="column" style="float:left; width: 50%">
 #+DOWNLOADED: https://www.universetoday.com/wp-content/uploads/2011/10/comet-bombardment.jpg @ 2020-04-29 10:17:00
@@ -221,6 +221,16 @@ Direkte link: [[https://youtu.be/Z8CzVUeCTjc]]
 
 #+begin_export html
 <iframe width="800" height="600" src="https://www.youtube.com/embed/JVboHupB8l0" title="Origin of Water - The Late Heavy Bombardment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** LHB - En lidt længere video
+#+begin_export html
+<iframe width="800" height="600" src="https://www.youtube.com/embed/_x2GlgyF8yE" title="The Mystery of the Late Heavy Bombardment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+** Hvor kom vandet fra - en længere video
+#+begin_export html
+<iframe width="800" height="600" src="https://www.youtube.com/embed/vjDnh7zfO98" title="Where Did Earth's Water Come From?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_export
 ** Drake eller Fermi?
 - Livets byggesten (aminosyrer og nukleotider) og mediet (vand), det skal udvikle sig i, "regner" åbenbart ned over planeterne.
