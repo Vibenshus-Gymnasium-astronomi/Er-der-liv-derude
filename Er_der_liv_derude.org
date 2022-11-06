@@ -613,6 +613,13 @@ Direkte link: [[http://video.ku.dk/er-jorden-almindelig-men-livet-unikt]]
 
 Direkte link: [[https://video.ku.dk/fra-big-bang-til-liv-i-universet]]
 
+* Men holder LHB som teori stadig?
+[[https://www.nature.com/articles/d41586-018-01074-6]]
+
+#+DOWNLOADED: screenshot @ 2022-11-06 09:59:38
+#+attr_html: :width 300px
+#+attr_latex: :width 7cm
+[[./nature_lhb.pdf][file:img/2022-11-06_09-59-38_screenshot.png]]
 
 
 # * Noter
